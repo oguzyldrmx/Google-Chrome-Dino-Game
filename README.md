@@ -1,9 +1,14 @@
 # Google-Chrome-Dino-Game
  Functionality of a game:
+	
 🌵 Random cactuses spawning 
+
 🦖 Dino jumping 
+
 🔚 When a dinosaur collides with a cactus, the game ends
+
 ☁️ Random clouds spawning 
+
 ⚡️ Increasing speed after each 100 points
 
 
