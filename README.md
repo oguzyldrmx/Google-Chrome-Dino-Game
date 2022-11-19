@@ -1,4 +1,6 @@
 # Google-Chrome-Dino-Game
+## Google Chrome Dino Game by using Html, Css and JavaScript
+
  Functionality of a game:
 	
 🌵 Random cactuses spawning 
